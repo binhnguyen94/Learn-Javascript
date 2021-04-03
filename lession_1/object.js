@@ -53,5 +53,5 @@ console.log(hour)
 console.log(minute)
 console.log(second)
 
-
+console.log(`0${day}/0${month}/${year} HAPPY NEW YEAR`)
 
